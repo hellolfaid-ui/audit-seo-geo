@@ -1,0 +1,33 @@
+name: Audit signaux invisibles SEO/GEO
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'   # chaque lundi 04h00 UTC (avant l'audit Claude de 06h00 UTC)
+  workflow_dispatch: {}     # permet aussi un déclenchement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  run-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le script d'audit
+        run: python3 verif_schema_org.py
+
+      - name: Publier les resultats dans le depot
+        run: |
+          git config user.name "audit-bot"
+          git config user.email "audit-bot@users.noreply.github.com"
+          git add audit_signaux_invisibles.json audit_signaux_invisibles.csv
+          git diff --staged --quiet || git commit -m "Audit hebdomadaire signaux invisibles $(date -u +%Y-%m-%d)"
+          git push
