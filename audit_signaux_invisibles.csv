@@ -1,0 +1,37 @@
+URL,HTTP Status,Nb blocs JSON-LD,Types schema.org détectés,Microdata détectée,A du schema (oui/non),LocalBusiness/AutoDealer détecté,Review/AggregateRating détecté,WebMCP détecté,Erreur
+https://dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; FAQPage; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mg-dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; FAQPage; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mercedes-benz-dewillermin.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://smart-dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mercedes-huillier.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://fordtrucks-huillier.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://vehicules-speciaux-huillier.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://hamecher.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mercedes-hamecher.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mg-hamecher.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mercedes-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://hyundai-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://volvo-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://nissan-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://smart-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mazda-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://bentley-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://groupe-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://byd-kroely.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://mercedes-kroely.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://smart-kroely.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://ok-occasionkroely.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://bpmcars.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://bpmcars.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://bpmexclusive.com/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://bpmmotorbike.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://bpmagri.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://bpmpro.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://astonmartinbordeaux.com/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://astonmartin-monaco.com/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://astonmartinparis.com/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://www.groupe-lempereur.com/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mercedes-emb.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://autoshop.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://amplitude-auto.com/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://lfaid.fr/,200,1,BreadcrumbList; Organization; WebPage; WebSite,non,OUI,OUI,NON,NON,
