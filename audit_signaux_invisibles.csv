@@ -1,7 +1,7 @@
 URL,HTTP Status,Nb blocs JSON-LD,Types schema.org détectés,Microdata détectée,A du schema (oui/non),LocalBusiness/AutoDealer détecté,Review/AggregateRating détecté,WebMCP détecté,Erreur
 https://dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; FAQPage; WebPage; WebSite,non,OUI,OUI,NON,NON,
 https://mg-dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; FAQPage; WebPage; WebSite,non,OUI,OUI,NON,NON,
-https://mercedes-benz-dewillermin.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://mercedes-benz-dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; FAQPage; WebPage; WebSite,non,OUI,OUI,NON,NON,
 https://smart-dewillermin.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
 https://mercedes-huillier.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
 https://fordtrucks-huillier.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
@@ -12,9 +12,9 @@ https://mg-hamecher.fr/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,O
 https://mercedes-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
 https://hyundai-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
 https://volvo-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
-https://nissan-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+https://nissan-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
 https://smart-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
-https://mazda-chevalley.ch/,200,1,AutoDealer; BreadcrumbList; WebPage; WebSite,non,OUI,OUI,NON,NON,
+https://mazda-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
 https://bentley-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
 https://groupe-chevalley.ch/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
 https://byd-kroely.fr/,,,,non,NON,NON,NON,NON,"('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
