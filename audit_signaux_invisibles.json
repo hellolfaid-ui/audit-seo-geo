@@ -1,7 +1,7 @@
 [
   {
     "url": "https://dewillermin.fr/",
-    "checked_at": "2026-10-05T10:54:22.713085+00:00",
+    "checked_at": "2026-10-12T11:22:21.274203+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -24,12 +24,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://dewillermin.fr/#organization\",\"name\":\"Concessionnaire de Willermin - Voitures Neuves et d\\u0027Occasion\",\"url\":\"https://dewillermin.fr/\",\"logo\":\"https://dewillermin.fr/img/logo-dewillermin-b-solo-alpha.webp\",\"image\":\"https://dewillermin.fr/img/logo-dewillermin-b-solo-alpha.webp\",\"description\":\"Venez dÃ©couvrir notre gamme de vÃ©hicules neufs et d\\u0027occasion Mercedes-Benz, MG Motor, Mitsubishi et Westfalia. Essai sur rendez-vous et service aprÃ¨s-vente\",\"priceRange\":\"2\\u202F600 â¬ - 1\\u202F014\\u202F000 â¬\",\"telephone\":\"\\u002B33491808940\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"108 Boulevard de Pont de Vivaux\",\"postalCode\":\"13010\",\"addressLocality\":\"Marseille\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.instagram.com/groupe_dewillermin\",\"https://www.linkedin.com/company/dewillermin/\",\"https://www.youtube.com/c/groupedewillermin/videos\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Marseille\"},{\"@type\":\"City\",\"name\":\"Avignon\"},{\"@type\":\"City\",\"name\":\"Romans-sur-IsÃ¨re\"},{\"@type\":\"City\",\"name\":\"Pertuis\"},{\"@type\":\"City\",\"name\":\"Carpentras\"},{\"@type\":\"City\",\"name\":\"FOURQUES\"},{\"@type\":\"City\",\"name\":\"Gajan\"},{\"@type\":\"City\",\"name\":\"Aix-en-Provence\"},{\"@type\":\"City\",\"name\":\"Aubenas\"},{\"@type\":\"City\",\"name\":\"MontÃ©limar\"},{\"@type\":\"City\",\"name\":\"Salon-de-Provence\"},{\"@type\":\"City\",\"name\":\"SAINT-ANDIOL\"},{\"@type\":\"City\",\"name\":\"Arles\"},{\"@type\":\"City\",\"name\":\"Vitrolles\"},{\"@type\":\"City\",\"name\":\"Orange\"},{\"@type\":\"City\",\"name\":\"Valence\"},{\"@type\":\"City\",\"name\":\"Cavaillon\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://dewillermin.fr/concessions/masa-agriculture-avignon#dealer\",\"name\":\"MASA Agriculture Avignon\",\"url\":\"https://dewillermin.fr/concessions/masa-agriculture-avignon\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/dewillermin/concessions/concessions_class_andiol_632797665.webp\",\"telephone\":\"\\u002B33490951000\",\"email\":\"contact@dewillermin.fr\",\"priceRange\":\"2\\u202F600 â¬"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://dewillermin.fr/#organization\",\"name\":\"Concessionnaire de Willermin - Voitures Neuves et d\\u0027Occasion\",\"url\":\"https://dewillermin.fr/\",\"logo\":\"https://dewillermin.fr/img/logo-dewillermin-b-solo-alpha.webp\",\"image\":\"https://dewillermin.fr/img/logo-dewillermin-b-solo-alpha.webp\",\"description\":\"Venez dÃ©couvrir notre gamme de vÃ©hicules neufs et d\\u0027occasion Mercedes-Benz, MG Motor, Mitsubishi et Westfalia. Essai sur rendez-vous et service aprÃ¨s-vente\",\"priceRange\":\"2\\u202F600 â¬ - 1\\u202F014\\u202F000 â¬\",\"telephone\":\"\\u002B33491808940\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"108 Boulevard de Pont de Vivaux\",\"postalCode\":\"13010\",\"addressLocality\":\"Marseille\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.instagram.com/groupe_dewillermin\",\"https://www.linkedin.com/company/dewillermin/\",\"https://www.youtube.com/c/groupedewillermin/videos\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Marseille\"},{\"@type\":\"City\",\"name\":\"Romans-sur-IsÃ¨re\"},{\"@type\":\"City\",\"name\":\"Pertuis\"},{\"@type\":\"City\",\"name\":\"Carpentras\"},{\"@type\":\"City\",\"name\":\"FOURQUES\"},{\"@type\":\"City\",\"name\":\"Gajan\"},{\"@type\":\"City\",\"name\":\"Aix-en-Provence\"},{\"@type\":\"City\",\"name\":\"Aubenas\"},{\"@type\":\"City\",\"name\":\"MontÃ©limar\"},{\"@type\":\"City\",\"name\":\"Avignon\"},{\"@type\":\"City\",\"name\":\"Salon-de-Provence\"},{\"@type\":\"City\",\"name\":\"SAINT-ANDIOL\"},{\"@type\":\"City\",\"name\":\"Arles\"},{\"@type\":\"City\",\"name\":\"Vitrolles\"},{\"@type\":\"City\",\"name\":\"Orange\"},{\"@type\":\"City\",\"name\":\"Valence\"},{\"@type\":\"City\",\"name\":\"Cavaillon\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://dewillermin.fr/concessions/masa-agriculture-avignon#dealer\",\"name\":\"MASA Agriculture Avignon\",\"url\":\"https://dewillermin.fr/concessions/masa-agriculture-avignon\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/dewillermin/concessions/concessions_class_andiol_632797665.webp\",\"telephone\":\"\\u002B33490951000\",\"email\":\"contact@dewillermin.fr\",\"priceRange\":\"2\\u202F600 â¬"
     ]
   },
   {
     "url": "https://mg-dewillermin.fr/",
-    "checked_at": "2026-10-05T10:54:24.838568+00:00",
+    "checked_at": "2026-10-12T11:22:23.654114+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -57,7 +57,7 @@
   },
   {
     "url": "https://mercedes-benz-dewillermin.fr/",
-    "checked_at": "2026-10-05T10:54:26.470220+00:00",
+    "checked_at": "2026-10-12T11:22:25.299853+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -80,12 +80,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-benz-dewillermin.fr/#organization\",\"name\":\"Concessionnaire Mercedes-Benz\",\"url\":\"https://mercedes-benz-dewillermin.fr/\",\"logo\":\"https://mercedes-benz-dewillermin.fr/img/logo-etoile-mercedes-benz.jpg\",\"image\":\"https://mercedes-benz-dewillermin.fr/img/logo-etoile-mercedes-benz.jpg\",\"description\":\"Distributeur officiel Mercedes-Benz dans le Sud-Est avec 18 concessions. VÃ©hicules neufs, occasions \\u0026 service d\\u0027entretien Ã  Marseille, Avignon, NÃ®mes \\u0026 Valence.\",\"priceRange\":\"17\\u202F500 â¬ - 1\\u202F014\\u202F000 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Mercedes-Benz\"},\"parentOrganization\":{\"@id\":\"https://dewillermin.fr/#organization\"},\"telephone\":\"\\u002B33491808940\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"108 boulevard de Pont de Vivaux\",\"postalCode\":\"13010\",\"addressLocality\":\"MARSEILLE\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/mercedes.dewillermin\",\"https://www.instagram.com/mercedes_dewillermin/\",\"https://www.linkedin.com/company/dewillermin\",\"https://www.tiktok.com/@groupe_dewillermin\",\"https://www.youtube.com/@mercedesdewillermin?sub_confirmation=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"AVIGNON\"},{\"@type\":\"City\",\"name\":\"MONTELIMAR\"},{\"@type\":\"City\",\"name\":\"ORANGE\"},{\"@type\":\"City\",\"name\":\"MARSEILLE\"},{\"@type\":\"City\",\"name\":\"VITROLLES\"},{\"@type\":\"City\",\"name\":\"VALENCE\"},{\"@type\":\"City\",\"name\":\"SALON DE PROVENCE\"},{\"@type\":\"City\",\"name\":\"Romans-sur-IsÃ¨re\"},{\"@type\":\"City\",\"name\":\"Cavaillon\"},{\"@type\":\"City\",\"name\":\"AUBENAS\"},{\"@type\":\"City\",\"name\":\"ARLES\"},{\"@type\":\"City\",\"name\":\"AIX EN PROVENCE\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-benz-dewillermin.fr/concessions/aix-en-provence#dealer\",\"name\":\"de Willermin Aix en Provence\",\"url\":\"https://mercedes-benz-dewillermin.fr/concessions/aix-en-provence\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/mercedes-dw/concessions/Concession_Mercedes_Benz_Aix_1786193702.webp\",\""
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-benz-dewillermin.fr/#organization\",\"name\":\"Concessionnaire Mercedes-Benz\",\"url\":\"https://mercedes-benz-dewillermin.fr/\",\"logo\":\"https://mercedes-benz-dewillermin.fr/img/logo-etoile-mercedes-benz.jpg\",\"image\":\"https://mercedes-benz-dewillermin.fr/img/logo-etoile-mercedes-benz.jpg\",\"description\":\"Distributeur officiel Mercedes-Benz dans le Sud-Est avec 18 concessions. VÃ©hicules neufs, occasions \\u0026 service d\\u0027entretien Ã  Marseille, Avignon, NÃ®mes \\u0026 Valence.\",\"priceRange\":\"15\\u202F990 â¬ - 1\\u202F014\\u202F000 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Mercedes-Benz\"},\"parentOrganization\":{\"@id\":\"https://dewillermin.fr/#organization\"},\"telephone\":\"\\u002B33491808940\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"108 boulevard de Pont de Vivaux\",\"postalCode\":\"13010\",\"addressLocality\":\"MARSEILLE\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/mercedes.dewillermin\",\"https://www.instagram.com/mercedes_dewillermin/\",\"https://www.linkedin.com/company/dewillermin\",\"https://www.tiktok.com/@groupe_dewillermin\",\"https://www.youtube.com/@mercedesdewillermin?sub_confirmation=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"AVIGNON\"},{\"@type\":\"City\",\"name\":\"MONTELIMAR\"},{\"@type\":\"City\",\"name\":\"ORANGE\"},{\"@type\":\"City\",\"name\":\"MARSEILLE\"},{\"@type\":\"City\",\"name\":\"VITROLLES\"},{\"@type\":\"City\",\"name\":\"VALENCE\"},{\"@type\":\"City\",\"name\":\"SALON DE PROVENCE\"},{\"@type\":\"City\",\"name\":\"Romans-sur-IsÃ¨re\"},{\"@type\":\"City\",\"name\":\"Cavaillon\"},{\"@type\":\"City\",\"name\":\"AUBENAS\"},{\"@type\":\"City\",\"name\":\"ARLES\"},{\"@type\":\"City\",\"name\":\"AIX EN PROVENCE\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-benz-dewillermin.fr/concessions/aix-en-provence#dealer\",\"name\":\"de Willermin Aix en Provence\",\"url\":\"https://mercedes-benz-dewillermin.fr/concessions/aix-en-provence\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/mercedes-dw/concessions/Concession_Mercedes_Benz_Aix_1786193702.webp\",\""
     ]
   },
   {
     "url": "https://smart-dewillermin.fr/",
-    "checked_at": "2026-10-05T10:54:28.193015+00:00",
+    "checked_at": "2026-10-12T11:22:26.939543+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -112,7 +112,7 @@
   },
   {
     "url": "https://mercedes-huillier.fr/",
-    "checked_at": "2026-10-05T10:54:29.806964+00:00",
+    "checked_at": "2026-10-12T11:22:28.559521+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -139,7 +139,7 @@
   },
   {
     "url": "https://fordtrucks-huillier.fr/",
-    "checked_at": "2026-10-05T10:54:31.364384+00:00",
+    "checked_at": "2026-10-12T11:22:30.172865+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -166,7 +166,7 @@
   },
   {
     "url": "https://vehicules-speciaux-huillier.fr/",
-    "checked_at": "2026-10-05T10:54:32.930551+00:00",
+    "checked_at": "2026-10-12T11:22:31.813123+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -193,7 +193,7 @@
   },
   {
     "url": "https://hamecher.fr/",
-    "checked_at": "2026-10-05T10:54:34.585645+00:00",
+    "checked_at": "2026-10-12T11:22:33.442056+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -220,7 +220,7 @@
   },
   {
     "url": "https://mercedes-hamecher.fr/",
-    "checked_at": "2026-10-05T10:54:36.200258+00:00",
+    "checked_at": "2026-10-12T11:22:35.047110+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -247,7 +247,7 @@
   },
   {
     "url": "https://mg-hamecher.fr/",
-    "checked_at": "2026-10-05T10:54:38.039200+00:00",
+    "checked_at": "2026-10-12T11:22:36.690709+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -274,7 +274,7 @@
   },
   {
     "url": "https://mercedes-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:39.657058+00:00",
+    "checked_at": "2026-10-12T11:22:38.221166+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -296,12 +296,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-chevalley.ch/#organization\",\"name\":\"Mercedes-Benz\",\"url\":\"https://mercedes-chevalley.ch/\",\"logo\":\"https://mercedes-chevalley.ch/img/logo-etoile-mercedes-benz.jpg\",\"image\":\"https://mercedes-chevalley.ch/img/logo-etoile-mercedes-benz.jpg\",\"description\":\"DÃ©couvrez nos vÃ©hicules neufs \\u0026 d\\u0027occasion ainsi que nos prestations de services aprÃ¨s-vente Mercedes-Benz Groupe Chevalley de GenÃ¨ve Ã  Nyon\",\"priceRange\":\"18\\u202F900 â¬ - 965\\u202F150 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Mercedes-Benz\"},\"parentOrganization\":{\"@id\":\"https://groupe-chevalley.ch/#organization\"},\"telephone\":\"41 22 531 01 35\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Avenue des Morgines 26\",\"postalCode\":\"1213\",\"addressLocality\":\"Petit-Lancy\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/MercedesGroupeChevalley\",\"https://www.instagram.com/mercedeschevalley/\",\"https://www.linkedin.com/company/groupe-andre-chevalley\",\"https://www.tiktok.com/@groupechevalley\",\"https://www.youtube.com/user/groupechevalley\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Cointrin\"},{\"@type\":\"City\",\"name\":\"Carouge\"},{\"@type\":\"City\",\"name\":\"Nyon\"},{\"@type\":\"City\",\"name\":\"GenÃ¨ve\"},{\"@type\":\"City\",\"name\":\"Petit-Lancy\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-chevalley.ch/concessions/garage-grimm-centre#dealer\",\"name\":\"Garage Grimm Centre\",\"url\":\"https://mercedes-chevalley.ch/concessions/garage-grimm-centre\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/chevalley/concessions/mercedes_garage_grimm_header_254672891.webp\",\"telephone\":\"41 22 531 01 35\",\"email\":\"ccc@andre-chevalley.ch\",\"priceRange\":\"18\\u202F900 â¬ - 965\\u202F150 â¬\",\"parentOrganization\":{\"@id\":\"https://mercedes-chevalley.ch/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"Mercedes-Benz\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Avenue des Morgines 26\",\"postalCode\":\"1213\",\"addressLocality\":\"Petit-Lancy\",\"addressCountr"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-chevalley.ch/#organization\",\"name\":\"Mercedes-Benz\",\"url\":\"https://mercedes-chevalley.ch/\",\"logo\":\"https://mercedes-chevalley.ch/img/logo-etoile-mercedes-benz.jpg\",\"image\":\"https://mercedes-chevalley.ch/img/logo-etoile-mercedes-benz.jpg\",\"description\":\"DÃ©couvrez nos vÃ©hicules neufs \\u0026 d\\u0027occasion ainsi que nos prestations de services aprÃ¨s-vente Mercedes-Benz Groupe Chevalley de GenÃ¨ve Ã  Nyon\",\"priceRange\":\"19\\u202F900 â¬ - 965\\u202F150 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Mercedes-Benz\"},\"parentOrganization\":{\"@id\":\"https://groupe-chevalley.ch/#organization\"},\"telephone\":\"41 22 531 01 35\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Avenue des Morgines 26\",\"postalCode\":\"1213\",\"addressLocality\":\"Petit-Lancy\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/MercedesGroupeChevalley\",\"https://www.instagram.com/mercedeschevalley/\",\"https://www.linkedin.com/company/groupe-andre-chevalley\",\"https://www.tiktok.com/@groupechevalley\",\"https://www.youtube.com/user/groupechevalley\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Cointrin\"},{\"@type\":\"City\",\"name\":\"Carouge\"},{\"@type\":\"City\",\"name\":\"Nyon\"},{\"@type\":\"City\",\"name\":\"GenÃ¨ve\"},{\"@type\":\"City\",\"name\":\"Petit-Lancy\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://mercedes-chevalley.ch/concessions/garage-grimm-centre#dealer\",\"name\":\"Garage Grimm Centre\",\"url\":\"https://mercedes-chevalley.ch/concessions/garage-grimm-centre\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/chevalley/concessions/mercedes_garage_grimm_header_254672891.webp\",\"telephone\":\"41 22 531 01 35\",\"email\":\"ccc@andre-chevalley.ch\",\"priceRange\":\"19\\u202F900 â¬ - 965\\u202F150 â¬\",\"parentOrganization\":{\"@id\":\"https://mercedes-chevalley.ch/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"Mercedes-Benz\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Avenue des Morgines 26\",\"postalCode\":\"1213\",\"addressLocality\":\"Petit-Lancy\",\"addressCountr"
     ]
   },
   {
     "url": "https://hyundai-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:41.507403+00:00",
+    "checked_at": "2026-10-12T11:22:39.991529+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -328,7 +328,7 @@
   },
   {
     "url": "https://volvo-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:43.391913+00:00",
+    "checked_at": "2026-10-12T11:22:41.732876+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -355,7 +355,7 @@
   },
   {
     "url": "https://nissan-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:45.147829+00:00",
+    "checked_at": "2026-10-12T11:22:43.577499+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -382,7 +382,7 @@
   },
   {
     "url": "https://smart-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:47.111898+00:00",
+    "checked_at": "2026-10-12T11:22:45.343478+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -404,12 +404,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://smart-chevalley.ch/#organization\",\"name\":\"smart Groupe Chevalley - Véhicules neufs et occasions\",\"url\":\"https://smart-chevalley.ch/\",\"logo\":\"https://smart-chevalley.ch/img/smart-logo.svg\",\"image\":\"https://smart-chevalley.ch/img/smart-logo.svg\",\"description\":\"Réservez un essai et découvrez tous les avantages de la conduite électrique. Roulez vers l’avenir avec la smart #1 ou #3 100% électrique à Genève\",\"priceRange\":\"13\\u202F900 € - 45\\u202F500 €\",\"brand\":{\"@type\":\"Brand\",\"name\":\"smart\"},\"parentOrganization\":{\"@id\":\"https://groupe-chevalley.ch/#organization\"},\"telephone\":\"\\u002B33228277111\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Chemin de la Marbrerie 1\",\"postalCode\":\"1227\",\"addressLocality\":\"Carouge\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/smartchevalley\",\"https://www.instagram.com/smartchevalley\",\"https://www.linkedin.com/company/groupe-andre-chevalley\",\"https://www.tiktok.com/@groupechevalley\",\"https://www.youtube.com/groupechevalley\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Carouge\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://smart-chevalley.ch/concessions/marbrerie#dealer\",\"name\":\"Garage de la Marbrerie\",\"url\":\"https://smart-chevalley.ch/concessions/marbrerie\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/smart-chevalley/concessions/garage_de_la_Marbrerie_1582701965.webp\",\"telephone\":\"\\u002B33228277111\",\"email\":\"ccc@andre-chevalley.ch\",\"priceRange\":\"13\\u202F900 € - 45\\u202F500 €\",\"parentOrganization\":{\"@id\":\"https://smart-chevalley.ch/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"smart\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Chemin de la Marbrerie 1\",\"postalCode\":\"1227\",\"addressLocality\":\"Carouge\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"46.18102\",\"longitude\":\"6.13467\"}}]},{\"@type\":\"WebSite\",\"@id\":\"https://smart-chevalley.ch/#website\",\"url\":\"https://smart-chevalley.ch/\",\"name\":\"smart Groupe Chevalley "
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://smart-chevalley.ch/#organization\",\"name\":\"smart Groupe Chevalley - Véhicules neufs et occasions\",\"url\":\"https://smart-chevalley.ch/\",\"logo\":\"https://smart-chevalley.ch/img/smart-logo.svg\",\"image\":\"https://smart-chevalley.ch/img/smart-logo.svg\",\"description\":\"Réservez un essai et découvrez tous les avantages de la conduite électrique. Roulez vers l’avenir avec la smart #1 ou #3 100% électrique à Genève\",\"priceRange\":\"13\\u202F900 € - 39\\u202F900 €\",\"brand\":{\"@type\":\"Brand\",\"name\":\"smart\"},\"parentOrganization\":{\"@id\":\"https://groupe-chevalley.ch/#organization\"},\"telephone\":\"\\u002B33228277111\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Chemin de la Marbrerie 1\",\"postalCode\":\"1227\",\"addressLocality\":\"Carouge\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/smartchevalley\",\"https://www.instagram.com/smartchevalley\",\"https://www.linkedin.com/company/groupe-andre-chevalley\",\"https://www.tiktok.com/@groupechevalley\",\"https://www.youtube.com/groupechevalley\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Carouge\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://smart-chevalley.ch/concessions/marbrerie#dealer\",\"name\":\"Garage de la Marbrerie\",\"url\":\"https://smart-chevalley.ch/concessions/marbrerie\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/smart-chevalley/concessions/garage_de_la_Marbrerie_1582701965.webp\",\"telephone\":\"\\u002B33228277111\",\"email\":\"ccc@andre-chevalley.ch\",\"priceRange\":\"13\\u202F900 € - 39\\u202F900 €\",\"parentOrganization\":{\"@id\":\"https://smart-chevalley.ch/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"smart\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Chemin de la Marbrerie 1\",\"postalCode\":\"1227\",\"addressLocality\":\"Carouge\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"46.18102\",\"longitude\":\"6.13467\"}}]},{\"@type\":\"WebSite\",\"@id\":\"https://smart-chevalley.ch/#website\",\"url\":\"https://smart-chevalley.ch/\",\"name\":\"smart Groupe Chevalley "
     ]
   },
   {
     "url": "https://mazda-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:48.990345+00:00",
+    "checked_at": "2026-10-12T11:22:47.228472+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -436,7 +436,7 @@
   },
   {
     "url": "https://bentley-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:50.929107+00:00",
+    "checked_at": "2026-10-12T11:22:49.081886+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -463,7 +463,7 @@
   },
   {
     "url": "https://groupe-chevalley.ch/",
-    "checked_at": "2026-10-05T10:54:52.814639+00:00",
+    "checked_at": "2026-10-12T11:22:50.922051+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -490,7 +490,7 @@
   },
   {
     "url": "https://byd-kroely.fr/",
-    "checked_at": "2026-10-05T10:54:54.640204+00:00",
+    "checked_at": "2026-10-12T11:22:53.150081+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -512,12 +512,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://byd-kroely.fr/#organization\",\"name\":\"BYD Kroely - DÃ©couvrez les modÃ¨les BYD en Alsace/Lorraine\",\"url\":\"https://byd-kroely.fr/\",\"logo\":\"https://byd-kroely.fr/img/apple-touch-icon.png\",\"image\":\"https://byd-kroely.fr/img/apple-touch-icon.png\",\"description\":\"DÃ©couvrez les voitures Ã©lectriques et hybrides BYD dans les concessions BYD Kroely en Alsace et Lorraine : SUV, Compactes, Citadines. Neufs et occasions.\",\"priceRange\":\"25\\u202F390 â¬ - 53\\u202F890 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"BYD\"},\"telephone\":\"\\u002B33367728301\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"18 rue Alcide de Gasperi\",\"postalCode\":\"68390\",\"addressLocality\":\"Sausheim\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/profile.php?id=100093484847314\",\"https://www.instagram.com/byd_by_kroely/\",\"https://www.linkedin.com/company/98041753/\",\"https://www.youtube.com/@GroupeKroely\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Strasbourg\"},{\"@type\":\"City\",\"name\":\"Laxou\"},{\"@type\":\"City\",\"name\":\"Metz\"},{\"@type\":\"City\",\"name\":\"Sausheim\"},{\"@type\":\"City\",\"name\":\"Morsbach\"},{\"@type\":\"City\",\"name\":\"Colmar\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://byd-kroely.fr/concessions/byd-colmar#dealer\",\"name\":\"BYD Colmar\",\"url\":\"https://byd-kroely.fr/concessions/byd-colmar\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/byd-kroely/concessions/byd_colmar_20260911150500.webp\",\"telephone\":\"\\u002B33367809256\",\"email\":\"leads@kroely.fr\",\"priceRange\":\"25\\u202F390 â¬ - 53\\u202F890 â¬\",\"parentOrganization\":{\"@id\":\"https://byd-kroely.fr/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"BYD\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"26 rue AndrÃ© Kiener\",\"postalCode\":\"68000\",\"addressLocality\":\"Colmar\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"48.09820\",\"longitude\":\"7.36958\"}},{\"@type\":\"AutoDealer\",\"@id\":\"https://byd-kroely.fr/concessions/byd-forbach#dealer\",\"name\":\"BYD Forbach\",\"url\":\"h"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://byd-kroely.fr/#organization\",\"name\":\"BYD Kroely - DÃ©couvrez les modÃ¨les BYD en Alsace/Lorraine\",\"url\":\"https://byd-kroely.fr/\",\"logo\":\"https://byd-kroely.fr/img/apple-touch-icon.png\",\"image\":\"https://byd-kroely.fr/img/apple-touch-icon.png\",\"description\":\"DÃ©couvrez les voitures Ã©lectriques et hybrides BYD dans les concessions BYD Kroely en Alsace et Lorraine : SUV, Compactes, Citadines. Neufs et occasions.\",\"priceRange\":\"25\\u202F490 â¬ - 53\\u202F490 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"BYD\"},\"telephone\":\"\\u002B33367728301\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"18 rue Alcide de Gasperi\",\"postalCode\":\"68390\",\"addressLocality\":\"Sausheim\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/profile.php?id=100093484847314\",\"https://www.instagram.com/byd_by_kroely/\",\"https://www.linkedin.com/company/98041753/\",\"https://www.youtube.com/@GroupeKroely\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Strasbourg\"},{\"@type\":\"City\",\"name\":\"Laxou\"},{\"@type\":\"City\",\"name\":\"Metz\"},{\"@type\":\"City\",\"name\":\"Sausheim\"},{\"@type\":\"City\",\"name\":\"Morsbach\"},{\"@type\":\"City\",\"name\":\"Colmar\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://byd-kroely.fr/concessions/byd-colmar#dealer\",\"name\":\"BYD Colmar\",\"url\":\"https://byd-kroely.fr/concessions/byd-colmar\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/byd-kroely/concessions/byd_colmar_20260911150500.webp\",\"telephone\":\"\\u002B33367809256\",\"email\":\"leads@kroely.fr\",\"priceRange\":\"25\\u202F490 â¬ - 53\\u202F490 â¬\",\"parentOrganization\":{\"@id\":\"https://byd-kroely.fr/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"BYD\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"26 rue AndrÃ© Kiener\",\"postalCode\":\"68000\",\"addressLocality\":\"Colmar\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"48.09820\",\"longitude\":\"7.36958\"}},{\"@type\":\"AutoDealer\",\"@id\":\"https://byd-kroely.fr/concessions/byd-forbach#dealer\",\"name\":\"BYD Forbach\",\"url\":\"h"
     ]
   },
   {
     "url": "https://mercedes-kroely.fr/",
-    "checked_at": "2026-10-05T10:54:56.206367+00:00",
+    "checked_at": "2026-10-12T11:22:54.698344+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -544,7 +544,7 @@
   },
   {
     "url": "https://smart-kroely.fr/",
-    "checked_at": "2026-10-05T10:54:57.760449+00:00",
+    "checked_at": "2026-10-12T11:22:56.350464+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -571,7 +571,7 @@
   },
   {
     "url": "https://ok-occasionkroely.fr/",
-    "checked_at": "2026-10-05T10:54:59.307241+00:00",
+    "checked_at": "2026-10-12T11:22:57.987586+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -593,12 +593,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://ok-occasionkroely.fr/#organization\",\"name\":\"OK Occasion Kroely\",\"url\":\"https://ok-occasionkroely.fr/\",\"logo\":\"https://ok-occasionkroely.fr/img/logo-okoccasion.svg\",\"image\":\"https://ok-occasionkroely.fr/img/logo-okoccasion.svg\",\"description\":\"OK! Occasion - SpÃ©cialiste en voitures d\\u0027occasion - Groupe Kroely vous permet de trouver votre meilleur vÃ©hicule d\\u0027occasion au meilleur prix\",\"priceRange\":\"6\\u202F480 â¬ - 111\\u202F990 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"OK Occasion\"},\"telephone\":\"\\u002B33367807599\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"41 avenue du Rhin\",\"postalCode\":\"67000\",\"addressLocality\":\"Strasbourg\",\"addressCountry\":\"FR\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sausheim\"},{\"@type\":\"City\",\"name\":\"Thionville\"},{\"@type\":\"City\",\"name\":\"Strasbourg\"},{\"@type\":\"City\",\"name\":\"Haguenau\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-haguenau#dealer\",\"name\":\"OK ! Occasion Haguenau\",\"url\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-haguenau\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/okoccasion/concessions/OK_Occasion_concession_1_20260911162848.webp\",\"telephone\":\"\\u002B33367707436\",\"priceRange\":\"6\\u202F480 â¬ - 111\\u202F990 â¬\",\"parentOrganization\":{\"@id\":\"https://ok-occasionkroely.fr/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"OK Occasion\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"4 rue Ettore Bugatti\",\"postalCode\":\"67500\",\"addressLocality\":\"Haguenau\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"48.79590\",\"longitude\":\"7.80367\"}},{\"@type\":\"AutoDealer\",\"@id\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-mulhouse#dealer\",\"name\":\"OK ! Occasion Mulhouse\",\"url\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-mulhouse\",\"image\":\"https://ok-occasionkroely.fr/img/logo-okoccasion.svg\",\"telephone\":\"\\u002B33389612010\",\"priceRa"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://ok-occasionkroely.fr/#organization\",\"name\":\"OK Occasion Kroely\",\"url\":\"https://ok-occasionkroely.fr/\",\"logo\":\"https://ok-occasionkroely.fr/img/logo-okoccasion.svg\",\"image\":\"https://ok-occasionkroely.fr/img/logo-okoccasion.svg\",\"description\":\"OK! Occasion - SpÃ©cialiste en voitures d\\u0027occasion - Groupe Kroely vous permet de trouver votre meilleur vÃ©hicule d\\u0027occasion au meilleur prix\",\"priceRange\":\"6\\u202F480 â¬ - 111\\u202F990 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"OK Occasion\"},\"telephone\":\"\\u002B33367807599\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"41 avenue du Rhin\",\"postalCode\":\"67000\",\"addressLocality\":\"Strasbourg\",\"addressCountry\":\"FR\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Sausheim\"},{\"@type\":\"City\",\"name\":\"Strasbourg\"},{\"@type\":\"City\",\"name\":\"Haguenau\"},{\"@type\":\"City\",\"name\":\"Terville\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-haguenau#dealer\",\"name\":\"OK ! Occasion Haguenau\",\"url\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-haguenau\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/okoccasion/concessions/OK_Occasion_concession_1_20260911162848.webp\",\"telephone\":\"\\u002B33367707436\",\"priceRange\":\"6\\u202F480 â¬ - 111\\u202F990 â¬\",\"parentOrganization\":{\"@id\":\"https://ok-occasionkroely.fr/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"OK Occasion\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"4 rue Ettore Bugatti\",\"postalCode\":\"67500\",\"addressLocality\":\"Haguenau\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"48.79590\",\"longitude\":\"7.80367\"}},{\"@type\":\"AutoDealer\",\"@id\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-mulhouse#dealer\",\"name\":\"OK ! Occasion Mulhouse\",\"url\":\"https://ok-occasionkroely.fr/concessions/ok-occasion-kroely-mulhouse\",\"image\":\"https://ok-occasionkroely.fr/img/logo-okoccasion.svg\",\"telephone\":\"\\u002B33389612010\",\"priceRang"
     ]
   },
   {
     "url": "https://bpmcars.fr/",
-    "checked_at": "2026-10-05T10:55:01.442000+00:00",
+    "checked_at": "2026-10-12T11:23:00.025815+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -620,12 +620,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://bpmcars.fr/#organization\",\"name\":\"Achat voiture d\\u0027occasion : Nos meilleures offres\",\"url\":\"https://bpmcars.fr/\",\"logo\":\"https://bpmcars.fr/img/bpm-cars-logo-black.svg\",\"image\":\"https://bpmcars.fr/img/bpm-cars-logo-black.svg\",\"description\":\"Large choix de vÃ©hicules dâoccasion certifiÃ©s chez BPM Cars. Profitez de prix exclusifs en ligne et d\\u0027un achat en toute confiance. Explorez le stock !\",\"priceRange\":\"7\\u202F790 â¬ - 600\\u202F000 â¬\",\"telephone\":\"\\u002B33236106018\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"17 bis Rue Charles Durand\",\"postalCode\":\"18000\",\"addressLocality\":\"Bourges\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/bpmgroup2021/?_rdr\",\"https://www.instagram.com/bpmgroup.fr/\",\"https://www.linkedin.com/company/bpmgroup-fr/?originalSubdomain=fr\",\"https://www.youtube.com/channel/UC64BrUzFg_Jx9VrlBLYiVUQ?app=desktop\\u0026cbrd=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Laval\"},{\"@type\":\"City\",\"name\":\"Montrouge\"},{\"@type\":\"City\",\"name\":\"Amilly\"},{\"@type\":\"City\",\"name\":\"RezÃ©\"},{\"@type\":\"City\",\"name\":\"Saint-Nazaire\"},{\"@type\":\"City\",\"name\":\"Orvault\"},{\"@type\":\"City\",\"name\":\"Saint-Doulchard\"},{\"@type\":\"City\",\"name\":\"OrlÃ©ans\"},{\"@type\":\"City\",\"name\":\"ChÃ¢teauroux\"},{\"@type\":\"City\",\"name\":\"Issy-les-Moulineaux\"},{\"@type\":\"City\",\"name\":\"La Garenne-Colombes\"},{\"@type\":\"City\",\"name\":\"Le Kremlin-BicÃªtre\"},{\"@type\":\"City\",\"name\":\"Tours\"},{\"@type\":\"City\",\"name\":\"CerisÃ©\"},{\"@type\":\"City\",\"name\":\"La Teste-de-Buch\"},{\"@type\":\"City\",\"name\":\"La ChaussÃ©e-Saint-Victor\"},{\"@type\":\"City\",\"name\":\"BÃ¨gles\"},{\"@type\":\"City\",\"name\":\"MÃ©rignac\"},{\"@type\":\"City\",\"name\":\"Les Billaux\"},{\"@type\":\"City\",\"name\":\"Monaco\"},{\"@type\":\"City\",\"name\":\"Fleury-les-Aubrais\"},{\"@type\":\"City\",\"name\":\"Pruniers-en-Sologne\"},{\"@type\":\"City\",\"name\":\"SablÃ©-sur-Sarthe\"},{\"@type\":\"City\",\"name\":\"Saint-Cyr-sur-Loire\"},{\"@type\":\"City\",\"name\":\"Bourges\"},{\"@type\":\"City\",\"name\":\"GuÃ©rande\"},{\"@t"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://bpmcars.fr/#organization\",\"name\":\"Achat voiture d\\u0027occasion : Nos meilleures offres\",\"url\":\"https://bpmcars.fr/\",\"logo\":\"https://bpmcars.fr/img/bpm-cars-logo-black.svg\",\"image\":\"https://bpmcars.fr/img/bpm-cars-logo-black.svg\",\"description\":\"Large choix de vÃ©hicules dâoccasion certifiÃ©s chez BPM Cars. Profitez de prix exclusifs en ligne et d\\u0027un achat en toute confiance. Explorez le stock !\",\"priceRange\":\"7\\u202F800 â¬ - 600\\u202F000 â¬\",\"telephone\":\"\\u002B33236106018\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"17 bis Rue Charles Durand\",\"postalCode\":\"18000\",\"addressLocality\":\"Bourges\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/bpmgroup2021/?_rdr\",\"https://www.instagram.com/bpmgroup.fr/\",\"https://www.linkedin.com/company/bpmgroup-fr/?originalSubdomain=fr\",\"https://www.youtube.com/channel/UC64BrUzFg_Jx9VrlBLYiVUQ?app=desktop\\u0026cbrd=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Laval\"},{\"@type\":\"City\",\"name\":\"Montrouge\"},{\"@type\":\"City\",\"name\":\"Amilly\"},{\"@type\":\"City\",\"name\":\"RezÃ©\"},{\"@type\":\"City\",\"name\":\"Saint-Nazaire\"},{\"@type\":\"City\",\"name\":\"Orvault\"},{\"@type\":\"City\",\"name\":\"Saint-Doulchard\"},{\"@type\":\"City\",\"name\":\"OrlÃ©ans\"},{\"@type\":\"City\",\"name\":\"ChÃ¢teauroux\"},{\"@type\":\"City\",\"name\":\"Issy-les-Moulineaux\"},{\"@type\":\"City\",\"name\":\"La Garenne-Colombes\"},{\"@type\":\"City\",\"name\":\"Le Kremlin-BicÃªtre\"},{\"@type\":\"City\",\"name\":\"Tours\"},{\"@type\":\"City\",\"name\":\"CerisÃ©\"},{\"@type\":\"City\",\"name\":\"La Teste-de-Buch\"},{\"@type\":\"City\",\"name\":\"La ChaussÃ©e-Saint-Victor\"},{\"@type\":\"City\",\"name\":\"BÃ¨gles\"},{\"@type\":\"City\",\"name\":\"MÃ©rignac\"},{\"@type\":\"City\",\"name\":\"Les Billaux\"},{\"@type\":\"City\",\"name\":\"Monaco\"},{\"@type\":\"City\",\"name\":\"Fleury-les-Aubrais\"},{\"@type\":\"City\",\"name\":\"Pruniers-en-Sologne\"},{\"@type\":\"City\",\"name\":\"SablÃ©-sur-Sarthe\"},{\"@type\":\"City\",\"name\":\"Saint-Cyr-sur-Loire\"},{\"@type\":\"City\",\"name\":\"Bourges\"},{\"@type\":\"City\",\"name\":\"GuÃ©rande\"},{\"@t"
     ]
   },
   {
     "url": "https://bpmcars.ch/",
-    "checked_at": "2026-10-05T10:55:03.617779+00:00",
+    "checked_at": "2026-10-12T11:23:02.154444+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -647,12 +647,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://bpmcars.ch/#organization\",\"name\":\"Groupe BPM Suisse - Groupe Automobile et Marques Premium\",\"url\":\"https://bpmcars.ch/\",\"logo\":\"https://bpmcars.ch/img/logo-bpm-cars.svg\",\"image\":\"https://bpmcars.ch/img/logo-bpm-cars.svg\",\"description\":\"DÃ©couvrez BPM Cars CH et notre sÃ©lection de voitures dâoccasion en Suisse. Trouvez votre prochain vÃ©hicule parmi nos modÃ¨les disponibles en stock.\",\"priceRange\":\"3\\u202F200 â¬ - 963\\u202F000 â¬\",\"telephone\":\"\\u002B33798326548\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"47 Rue du Simplon\",\"postalCode\":\"1920\",\"addressLocality\":\"Martigny\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/garagegare\",\"https://www.instagram.com/volvocars_bpmcars_ch/\",\"https://www.linkedin.com/showcase/bpm-cars-switzerland/\",\"https://www.youtube.com/channel/UC64BrUzFg_Jx9VrlBLYiVUQ?app=desktop\\u0026cbrd=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Martigny\"},{\"@type\":\"City\",\"name\":\"Monthey\"},{\"@type\":\"City\",\"name\":\"Vevey\"},{\"@type\":\"City\",\"name\":\"Visp\"},{\"@type\":\"City\",\"name\":\"Noville\"},{\"@type\":\"City\",\"name\":\"Lausanne\"},{\"@type\":\"City\",\"name\":\"Yverdon-les-Bains\"},{\"@type\":\"City\",\"name\":\"Chavannes-prÃ¨s-Renens\"},{\"@type\":\"City\",\"name\":\"Aigle\"},{\"@type\":\"City\",\"name\":\"DelÃ©mont\"},{\"@type\":\"City\",\"name\":\"La Tour-de-Peilz\"},{\"@type\":\"City\",\"name\":\"Morges\"},{\"@type\":\"City\",\"name\":\"Renens\"},{\"@type\":\"City\",\"name\":\"Cortaillod\"},{\"@type\":\"City\",\"name\":\"Sierre\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://bpmcars.ch/concessions/volvo-selekt-matigny#dealer\",\"name\":\"BPM Cars - Centre d\\u0027occasion Volvo Selekt\",\"url\":\"https://bpmcars.ch/concessions/volvo-selekt-matigny\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/bpm-cars-ch/concessions/mediasecure_getphoto__3__2051649324.webp\",\"telephone\":\"\\u002B33798326548\",\"email\":\"bpmcars-ch-martigny-vnvo@bpmgroup.ch\",\"priceRange\":\"3\\u202F200 â¬ - 963\\u202F000 â¬\",\"parentOrganization\":{\"@id\":\"https://bpmcars.ch/#"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://bpmcars.ch/#organization\",\"name\":\"Groupe BPM Suisse - Groupe Automobile et Marques Premium\",\"url\":\"https://bpmcars.ch/\",\"logo\":\"https://bpmcars.ch/img/logo-bpm-cars.svg\",\"image\":\"https://bpmcars.ch/img/logo-bpm-cars.svg\",\"description\":\"DÃ©couvrez BPM Cars CH et notre sÃ©lection de voitures dâoccasion en Suisse. Trouvez votre prochain vÃ©hicule parmi nos modÃ¨les disponibles en stock.\",\"priceRange\":\"3\\u202F200 â¬ - 283\\u202F900 â¬\",\"telephone\":\"\\u002B33798326548\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"47 Rue du Simplon\",\"postalCode\":\"1920\",\"addressLocality\":\"Martigny\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/garagegare\",\"https://www.instagram.com/volvocars_bpmcars_ch/\",\"https://www.linkedin.com/showcase/bpm-cars-switzerland/\",\"https://www.youtube.com/channel/UC64BrUzFg_Jx9VrlBLYiVUQ?app=desktop\\u0026cbrd=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Martigny\"},{\"@type\":\"City\",\"name\":\"Monthey\"},{\"@type\":\"City\",\"name\":\"Vevey\"},{\"@type\":\"City\",\"name\":\"Visp\"},{\"@type\":\"City\",\"name\":\"Noville\"},{\"@type\":\"City\",\"name\":\"Lausanne\"},{\"@type\":\"City\",\"name\":\"Yverdon-les-Bains\"},{\"@type\":\"City\",\"name\":\"Chavannes-prÃ¨s-Renens\"},{\"@type\":\"City\",\"name\":\"Aigle\"},{\"@type\":\"City\",\"name\":\"DelÃ©mont\"},{\"@type\":\"City\",\"name\":\"La Tour-de-Peilz\"},{\"@type\":\"City\",\"name\":\"Morges\"},{\"@type\":\"City\",\"name\":\"Renens\"},{\"@type\":\"City\",\"name\":\"Cortaillod\"},{\"@type\":\"City\",\"name\":\"Sierre\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://bpmcars.ch/concessions/volvo-selekt-matigny#dealer\",\"name\":\"BPM Cars - Centre d\\u0027occasion Volvo Selekt\",\"url\":\"https://bpmcars.ch/concessions/volvo-selekt-matigny\",\"image\":\"https://s3-sxb.aci-cloud.com/prod/bpm-cars-ch/concessions/mediasecure_getphoto__3__2051649324.webp\",\"telephone\":\"\\u002B33798326548\",\"email\":\"bpmcars-ch-martigny-vnvo@bpmgroup.ch\",\"priceRange\":\"3\\u202F200 â¬ - 283\\u202F900 â¬\",\"parentOrganization\":{\"@id\":\"https://bpmcars.ch/#"
     ]
   },
   {
     "url": "https://bpmexclusive.com/",
-    "checked_at": "2026-10-05T10:55:05.447845+00:00",
+    "checked_at": "2026-10-12T11:23:04.540428+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -679,7 +679,7 @@
   },
   {
     "url": "https://bpmmotorbike.fr/",
-    "checked_at": "2026-10-05T10:55:07.259220+00:00",
+    "checked_at": "2026-10-12T11:23:06.442381+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -706,7 +706,7 @@
   },
   {
     "url": "https://bpmagri.fr/",
-    "checked_at": "2026-10-05T10:55:09.045085+00:00",
+    "checked_at": "2026-10-12T11:23:08.217417+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -733,7 +733,7 @@
   },
   {
     "url": "https://bpmpro.fr/",
-    "checked_at": "2026-10-05T10:55:11.217909+00:00",
+    "checked_at": "2026-10-12T11:23:10.287043+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -760,7 +760,7 @@
   },
   {
     "url": "https://astonmartinbordeaux.com/",
-    "checked_at": "2026-10-05T10:55:13.251926+00:00",
+    "checked_at": "2026-10-12T11:23:12.219649+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -782,12 +782,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://astonmartinbordeaux.com/#organization\",\"name\":\"BPM Aston Martin Bordeaux : Voitures de Luxe, Sport \\u0026 SUV\",\"url\":\"https://astonmartinbordeaux.com/\",\"logo\":\"https://astonmartinbordeaux.com/img/apple-touch-icon.png\",\"image\":\"https://astonmartinbordeaux.com/img/apple-touch-icon.png\",\"description\":\"DÃ©couvrez BPM Aston Martin Bordeaux et ses modÃ¨les emblÃ©matiques : voitures de sport, GT et SUV Aston Martin, en neuf comme en occasion certifiÃ©e.\",\"priceRange\":\"99\\u202F790 â¬ - 489\\u202F000 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Aston Martin\"},\"telephone\":\"\\u002B33556162100\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"114 Avenue John Fitzgerald Kennedy\",\"postalCode\":\"33700\",\"addressLocality\":\"MÃ©rignac\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/bpmgroup2021/?_rdr\",\"https://www.instagram.com/bpmgroup.fr/\",\"https://www.linkedin.com/company/bpmgroup-fr/?originalSubdomain=fr\",\"https://www.youtube.com/channel/UC64BrUzFg_Jx9VrlBLYiVUQ?app=desktop\\u0026cbrd=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"MÃ©rignac\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://astonmartinbordeaux.com/concessions/aston-martin-bordeaux#dealer\",\"name\":\"Aston Martin Bordeaux\",\"url\":\"https://astonmartinbordeaux.com/concessions/aston-martin-bordeaux\",\"image\":\"https://astonmartinbordeaux.com/img/apple-touch-icon.png\",\"telephone\":\"\\u002B33556162100\",\"email\":\"contact@astonmartinbordeaux.com\",\"priceRange\":\"99\\u202F790 â¬ - 489\\u202F000 â¬\",\"parentOrganization\":{\"@id\":\"https://astonmartinbordeaux.com/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"Aston Martin\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"114 Avenue John Fitzgerald Kennedy\",\"postalCode\":\"33700\",\"addressLocality\":\"MÃ©rignac\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"44.83485\",\"longitude\":\"-0.69089\"}}]},{\"@type\":\"WebSite\",\"@id\":\"https://astonmartinbordeaux.com/#website\",\"url\":\"https://astonm"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://astonmartinbordeaux.com/#organization\",\"name\":\"BPM Aston Martin Bordeaux : Voitures de Luxe, Sport \\u0026 SUV\",\"url\":\"https://astonmartinbordeaux.com/\",\"logo\":\"https://astonmartinbordeaux.com/img/apple-touch-icon.png\",\"image\":\"https://astonmartinbordeaux.com/img/apple-touch-icon.png\",\"description\":\"DÃ©couvrez BPM Aston Martin Bordeaux et ses modÃ¨les emblÃ©matiques : voitures de sport, GT et SUV Aston Martin, en neuf comme en occasion certifiÃ©e.\",\"priceRange\":\"58\\u202F900 â¬ - 489\\u202F000 â¬\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Aston Martin\"},\"telephone\":\"\\u002B33556162100\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"114 Avenue John Fitzgerald Kennedy\",\"postalCode\":\"33700\",\"addressLocality\":\"MÃ©rignac\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/bpmgroup2021/?_rdr\",\"https://www.instagram.com/bpmgroup.fr/\",\"https://www.linkedin.com/company/bpmgroup-fr/?originalSubdomain=fr\",\"https://www.youtube.com/channel/UC64BrUzFg_Jx9VrlBLYiVUQ?app=desktop\\u0026cbrd=1\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"MÃ©rignac\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://astonmartinbordeaux.com/concessions/aston-martin-bordeaux#dealer\",\"name\":\"Aston Martin Bordeaux\",\"url\":\"https://astonmartinbordeaux.com/concessions/aston-martin-bordeaux\",\"image\":\"https://astonmartinbordeaux.com/img/apple-touch-icon.png\",\"telephone\":\"\\u002B33556162100\",\"email\":\"contact@astonmartinbordeaux.com\",\"priceRange\":\"58\\u202F900 â¬ - 489\\u202F000 â¬\",\"parentOrganization\":{\"@id\":\"https://astonmartinbordeaux.com/#organization\"},\"brand\":{\"@type\":\"Brand\",\"name\":\"Aston Martin\"},\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"114 Avenue John Fitzgerald Kennedy\",\"postalCode\":\"33700\",\"addressLocality\":\"MÃ©rignac\",\"addressCountry\":\"FR\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"44.83485\",\"longitude\":\"-0.69089\"}}]},{\"@type\":\"WebSite\",\"@id\":\"https://astonmartinbordeaux.com/#website\",\"url\":\"https://astonm"
     ]
   },
   {
     "url": "https://astonmartin-monaco.com/",
-    "checked_at": "2026-10-05T10:55:15.009268+00:00",
+    "checked_at": "2026-10-12T11:23:13.928538+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -814,7 +814,7 @@
   },
   {
     "url": "https://astonmartinparis.com/",
-    "checked_at": "2026-10-05T10:55:16.758460+00:00",
+    "checked_at": "2026-10-12T11:23:15.571130+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -841,7 +841,7 @@
   },
   {
     "url": "https://www.groupe-lempereur.com/",
-    "checked_at": "2026-10-05T10:55:18.452506+00:00",
+    "checked_at": "2026-10-12T11:23:17.253753+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -863,12 +863,12 @@
     "register_tool_call": false,
     "any_webmcp_signal": false,
     "raw_jsonld_preview": [
-      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://www.groupe-lempereur.com/#organization\",\"name\":\"Concessionnaire Auto \\u0026 Moto : Hauts-de-France\",\"url\":\"https://www.groupe-lempereur.com/\",\"logo\":\"https://www.groupe-lempereur.com/img/logo-Lempereur-black.webp\",\"image\":\"https://www.groupe-lempereur.com/img/logo-Lempereur-black.webp\",\"description\":\"Concessionnaire auto et moto dans les Hauts-de-France. 18 marques auto, 15 marques moto, 60 concessions. LOA, LLD, reprise, entretien agrÃ©Ã©.\",\"priceRange\":\"1\\u202F990 â¬ - 119\\u202F990 â¬\",\"telephone\":\"\\u002B33374029910\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Zone Commerciale du Luc - Rue Barack Obama\",\"postalCode\":\"59187\",\"addressLocality\":\"DECHY\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/p/Groupe-Lempereur-100021732753464/\",\"https://www.instagram.com/groupe_lempereur/\",\"https://www.linkedin.com/company/groupelempereur\",\"https://www.youtube.com/channel/UCZn3yBuKxWv-X5jc3YGfMXA/videos?app=desktop\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"DECHY\"},{\"@type\":\"City\",\"name\":\"BEAURAINS\"},{\"@type\":\"City\",\"name\":\"BETHUNE\"},{\"@type\":\"City\",\"name\":\"PETITE-FORET\"},{\"@type\":\"City\",\"name\":\"COQUELLES\"},{\"@type\":\"City\",\"name\":\"SAINT-LEONARD\"},{\"@type\":\"City\",\"name\":\"COUDEKERQUE-BRANCHE\"},{\"@type\":\"City\",\"name\":\"ARQUES\"},{\"@type\":\"City\",\"name\":\"COURRIERES\"},{\"@type\":\"City\",\"name\":\"BEUVRY\"},{\"@type\":\"City\",\"name\":\"LIÃVIN\"},{\"@type\":\"City\",\"name\":\"LONGUENESSE\"},{\"@type\":\"City\",\"name\":\"BRUAY-LA-BUISSIERE\"},{\"@type\":\"City\",\"name\":\"RONCQ\"},{\"@type\":\"City\",\"name\":\"SAINTE-CATHERINE\"},{\"@type\":\"City\",\"name\":\"LONGUEAU\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://www.groupe-lempereur.com/concessions/abarth-dechy#dealer\",\"name\":\"ABARTH DECHY\",\"url\":\"https://www.groupe-lempereur.com/concessions/abarth-dechy\",\"image\":\"https://www.groupe-lempereur.com/img/logo-Lempereur-black.webp\",\"telephone\":\"\\u002B33374029910\",\"priceRange\":\"1\\u202F990 â¬ - 119\\u202F990 â¬\",\"parentOrganiz"
+      "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://www.groupe-lempereur.com/#organization\",\"name\":\"Concessionnaire Auto \\u0026 Moto : Hauts-de-France\",\"url\":\"https://www.groupe-lempereur.com/\",\"logo\":\"https://www.groupe-lempereur.com/img/logo-Lempereur-black.webp\",\"image\":\"https://www.groupe-lempereur.com/img/logo-Lempereur-black.webp\",\"description\":\"Concessionnaire auto et moto dans les Hauts-de-France. 18 marques auto, 15 marques moto, 60 concessions. LOA, LLD, reprise, entretien agrÃ©Ã©.\",\"priceRange\":\"2\\u202F834 â¬ - 119\\u202F990 â¬\",\"telephone\":\"\\u002B33374029910\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Zone Commerciale du Luc - Rue Barack Obama\",\"postalCode\":\"59187\",\"addressLocality\":\"DECHY\",\"addressCountry\":\"FR\"},\"sameAs\":[\"https://www.facebook.com/p/Groupe-Lempereur-100021732753464/\",\"https://www.instagram.com/groupe_lempereur/\",\"https://www.linkedin.com/company/groupelempereur\",\"https://www.youtube.com/channel/UCZn3yBuKxWv-X5jc3YGfMXA/videos?app=desktop\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"DECHY\"},{\"@type\":\"City\",\"name\":\"BEAURAINS\"},{\"@type\":\"City\",\"name\":\"BETHUNE\"},{\"@type\":\"City\",\"name\":\"PETITE-FORET\"},{\"@type\":\"City\",\"name\":\"COQUELLES\"},{\"@type\":\"City\",\"name\":\"SAINT-LEONARD\"},{\"@type\":\"City\",\"name\":\"COUDEKERQUE-BRANCHE\"},{\"@type\":\"City\",\"name\":\"ARQUES\"},{\"@type\":\"City\",\"name\":\"COURRIERES\"},{\"@type\":\"City\",\"name\":\"BEUVRY\"},{\"@type\":\"City\",\"name\":\"LIÃVIN\"},{\"@type\":\"City\",\"name\":\"LONGUENESSE\"},{\"@type\":\"City\",\"name\":\"BRUAY-LA-BUISSIERE\"},{\"@type\":\"City\",\"name\":\"RONCQ\"},{\"@type\":\"City\",\"name\":\"SAINTE-CATHERINE\"},{\"@type\":\"City\",\"name\":\"LONGUEAU\"}],\"subOrganization\":[{\"@type\":\"AutoDealer\",\"@id\":\"https://www.groupe-lempereur.com/concessions/abarth-dechy#dealer\",\"name\":\"ABARTH DECHY\",\"url\":\"https://www.groupe-lempereur.com/concessions/abarth-dechy\",\"image\":\"https://www.groupe-lempereur.com/img/logo-Lempereur-black.webp\",\"telephone\":\"\\u002B33374029910\",\"priceRange\":\"2\\u202F834 â¬ - 119\\u202F990 â¬\",\"parentOrganiz"
     ]
   },
   {
     "url": "https://mercedes-emb.fr/",
-    "checked_at": "2026-10-05T10:55:20.448644+00:00",
+    "checked_at": "2026-10-12T11:23:19.352505+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -895,7 +895,7 @@
   },
   {
     "url": "https://autoshop.fr/",
-    "checked_at": "2026-10-05T10:55:22.029323+00:00",
+    "checked_at": "2026-10-12T11:23:20.978398+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -922,7 +922,7 @@
   },
   {
     "url": "https://amplitude-auto.com/",
-    "checked_at": "2026-10-05T10:55:24.204884+00:00",
+    "checked_at": "2026-10-12T11:23:23.488421+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
@@ -950,7 +950,7 @@
   },
   {
     "url": "https://lfaid.fr/",
-    "checked_at": "2026-10-05T10:55:26.798189+00:00",
+    "checked_at": "2026-10-12T11:23:26.669773+00:00",
     "http_status": 200,
     "jsonld_script_count": 1,
     "schema_types_found": [
